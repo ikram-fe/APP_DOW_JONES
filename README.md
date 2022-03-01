@@ -4,4 +4,4 @@ The following Application was developped, using R as our programming language, t
 1. Trend indicators — Simple Moving Average(SMA20 and SMA50).
 2. Momentum indicators — Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI) and Price Rate Of Change (ROC) Indicator.
 3. Oscillation indicators — SIGNAL indicator.
-#Here we’ll be taking the data from an initial timeline of 01/01/2015 to date (2022) and see how our indicators perform. WE’ll be using YFINANCE for downloading the data.
+Here we’ll be taking the data from an initial timeline of 01/01/2015 to date (2022) and see how our indicators perform. WE’ll be using YFINANCE for downloading the data.
